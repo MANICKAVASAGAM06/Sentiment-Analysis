@@ -1,6 +1,6 @@
-# ✈️ Sentiment Analysis on Airline Tweets
+#  Sentiment Analysis on Airline Tweets
 
-## 📌 Project Overview
+##  Project Overview
 
 This project performs **sentiment analysis on airline tweets** to classify them into **positive, neutral, or negative sentiments** using Machine Learning techniques.
 
@@ -8,7 +8,7 @@ The model is trained on real-world tweet data and uses text preprocessing, featu
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 The main objective of this project is to:
 
@@ -18,7 +18,7 @@ The main objective of this project is to:
 
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas
@@ -29,7 +29,7 @@ The main objective of this project is to:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 * Dataset: Airline Tweets Dataset
 * Contains tweets related to airlines with labeled sentiments
@@ -40,7 +40,7 @@ The main objective of this project is to:
 
 ---
 
-## ⚙️ Workflow
+##  Workflow
 
 1. Data Loading
 2. Data Cleaning (removing URLs, mentions, special characters)
@@ -56,13 +56,13 @@ The main objective of this project is to:
 
 ---
 
-## 🤖 Model Used
+##  Model Used
 
 * Logistic Regression
 
 ---
 
-## 📈 Results
+##  Results
 
 * The model is trained using TF-IDF features
 * Achieves good accuracy on test data
@@ -70,7 +70,7 @@ The main objective of this project is to:
 
 ---
 
-## 🔍 Sample Features
+##  Sample Features
 
 * Text cleaning using regex
 * Stopword removal using NLTK
@@ -79,7 +79,7 @@ The main objective of this project is to:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Open the notebook in Google Colab
 2. Upload the dataset (`airline_sentiment.csv`)
